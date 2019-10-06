@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <?php echo "Hello World"; ?>
+  <?php echo "IT255-DZ01 Cao svete"; ?>
 </body>
 </html>
 
